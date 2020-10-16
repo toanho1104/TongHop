@@ -9,8 +9,7 @@
 ## Telegram (Thiết kế giao diện theo mẫu)
 
 <div style="display:flex; justify-content:space-between;">
-  <img src="./screenShots/teLeGram/te1.jpg" width="30%">
-  <img src="./screenShots/teLeGram/te2.jpg" width="30%">
+  <img src="./screenShots/teLeGram/te1.png" width="30%">
 </div> 
 
 ## Todoredux (làm ví dụ đơn giản về todo redux)
