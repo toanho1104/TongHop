@@ -1,6 +1,13 @@
 # TongHop
-## instagram
+## insTagRam
 <div style="display:flex; justify-content:space-between;">
-  <img src="./Screenshots/instagram/ins1.png" width="33%">
-
+  <img src="./Screenshots/instagram/ins1.png" width="33%"> 
+</div>
+## toDuReDux
+<div style="display:flex; justify-content:space-between;">
+  <img src="./screenShots/toDoRedux/t1.jpg" width="33%">
+  <img src="./screenShots/toDoRedux/t2.jpg" width="33%">
+  <img src="./screenShots/toDoRedux/t3.jpg" width="33%">
+  <img src="./screenShots/toDoRedux/t4.jpg" width="33%">
+  <img src="./screenShots/toDoRedux/t5.jpg" width="33%">
 </div>
