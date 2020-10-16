@@ -1,17 +1,17 @@
 # Tổng Hợp
 
-## Instagram
+## Instagram (Thiết kế giao diện theo mẫu)
 <div style="display:flex; justify-content:space-between;">
   <img src="./screenShots/teLeGram/te1.png" width="30%">
 </div> 
 
-## Telegram
+## Telegram (Thiết kế giao diện theo mẫu)
 
 <div style="display:flex; justify-content:space-between;">
   <img src="./screenShots/instagram/in1.jpg" width="30%">
 </div> 
 
-## Todoredux
+## Todoredux (làm ví dụ đơn giản về todo redux)
 <div style="display:flex; justify-content:space-between;">
   <img src="./screenShots/toDoRedux/t1.jpg" width="30%">
   <img src="./screenShots/toDoRedux/t2.jpg" width="30%">
@@ -22,19 +22,19 @@
   <img src="./screenShots/toDoRedux/t5.jpg" width="30%">
 </div>
 
-## Weather
+## Weather (ứng dụng xem thời tiết đơn giản theo thời gian thực)
 <div style="display:flex; justify-content:space-between;">
   <img src="./screenShots/weaTher/we1.jpg" width="30%"> 
   <img src="./screenShots/weaTher/we2.jpg" width="30%"> 
 </div>
 
-## BMI 
+## BMI (ứng dụng tính chỉ sô BMI dựa trên cân nặng và chiều cao)
 <div style="display:flex; justify-content:space-between;">
   <img src="./screenShots/bMI/bmi1.jpg" width="30%"> 
   <img src="./screenShots/bMI/bmi2.jpg" width="30%"> 
 </div>
 
-## ecommerce
+## ecommerce (ứng dụng bán hàng đơn giản)
 <div style="display:flex; justify-content:space-between;">
   <img src="./screenShots/Ecommerce/E1.jpg" width="30%">
   <img src="./screenShots/Ecommerce/e2.jpg" width="30%">
