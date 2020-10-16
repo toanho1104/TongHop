@@ -8,7 +8,7 @@
 ## Telegram
 
 <div style="display:flex; justify-content:space-between;">
-  <img src="./screenShots/teLeGram/te1.png" width="30%">
+  <img src="./screenShots/instagram/in1.jpg" width="30%">
 </div> 
 
 ## Todoredux
@@ -34,3 +34,14 @@
   <img src="./screenShots/bMI/bmi2.jpg" width="30%"> 
 </div>
 
+## ecommerce
+<div style="display:flex; justify-content:space-between;">
+  <img src="./screenShots/Ecommerce/E1.jpg" width="30%">
+  <img src="./screenShots/Ecommerce/e2.jpg" width="30%">
+  <img src="./screenShots/Ecommerce/e3.jpg" width="30%">
+  <img src="./screenShots/Ecommerce/e4.jpg" width="30%">
+  <img src="./screenShots/Ecommerce/e5.jpg" width="30%">
+  <img src="./screenShots/Ecommerce/e6.jpg" width="30%">
+  <img src="./screenShots/Ecommerce/e7.jpg" width="30%">
+  <img src="./screenShots/Ecommerce/e8.jpg" width="30%">
+</div>
