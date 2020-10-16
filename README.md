@@ -1,7 +1,7 @@
 # TongHop
 ## insTagRam
 <div style="display:flex; justify-content:space-between;">
-  <img src="./Screenshots/instagram/ins1.png" width="33%"> 
+  <img src="./screenShots/teLeGram/te1.png.png" width="33%"> 
 </div>
 ## toDuReDux
 <div style="display:flex; justify-content:space-between;">
