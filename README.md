@@ -5,6 +5,12 @@
   <img src="./screenShots/teLeGram/te1.png" width="30%">
 </div> 
 
+## Telegram
+
+<div style="display:flex; justify-content:space-between;">
+  <img src="./screenShots/teLeGram/te1.png" width="30%">
+</div> 
+
 ## Todoredux
 <div style="display:flex; justify-content:space-between;">
   <img src="./screenShots/toDoRedux/t1.jpg" width="30%">
@@ -27,3 +33,4 @@
   <img src="./screenShots/bMI/bmi1.jpg" width="30%"> 
   <img src="./screenShots/bMI/bmi2.jpg" width="30%"> 
 </div>
+
