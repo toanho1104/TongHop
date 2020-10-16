@@ -3,7 +3,7 @@
 ## Instagram (Thiết kế giao diện theo mẫu)
 <div style="display:flex; justify-content:space-between;">
   <img src="./screenShots/instagram/in1.jpg" width="30%">
-  <img src="./screenShots/instagram/in2.jpg" width="30%">
+  <img src="./screenShots/instagram/in3.jpg" width="30%">
 </div> 
 
 ## Telegram (Thiết kế giao diện theo mẫu)
