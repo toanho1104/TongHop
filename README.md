@@ -3,7 +3,7 @@
 
 ## insTagRam
 <div style="display:flex; justify-content:space-between;">
-  <img src="./screenShots/teLeGram/te1.png.png" width="30%"> 
+  <img src="./screenShots/teLeGram/te1.png" width="30%">
 </div>
 
 
@@ -21,5 +21,6 @@
 
 ## weather
 <div style="display:flex; justify-content:space-between;">
+  <img src="./screenShots/weaTher/we1.jpg" width="30%"> 
   <img src="./screenShots/weaTher/we1.jpg" width="30%"> 
 </div>
