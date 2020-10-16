@@ -1,13 +1,13 @@
 # TongHop
 
 
-## insTagRam
+## Instagram
 <div style="display:flex; justify-content:space-between;">
   <img src="./screenShots/teLeGram/te1.png" width="30%">
 </div>
 
 
-## toDuReDux
+## Todoredux
 <div style="display:flex; justify-content:space-between;">
   <img src="./screenShots/toDoRedux/t1.jpg" width="30%">
   <img src="./screenShots/toDoRedux/t2.jpg" width="30%">
@@ -19,7 +19,7 @@
 </div>
 
 
-## weather
+## Weather
 <div style="display:flex; justify-content:space-between;">
   <img src="./screenShots/weaTher/we1.jpg" width="30%"> 
   <img src="./screenShots/weaTher/we1.jpg" width="30%"> 
